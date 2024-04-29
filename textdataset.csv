@@ -1,0 +1,6 @@
+text,intent,entities
+"Book a flight from New York to San Francisco tomorrow","book_flight","{'from_location': 'New York', 'to_location': 'San Francisco', 'date': 'tomorrow'}"
+"What's the weather like in Paris today?","check_weather","{'location': 'Paris', 'date': 'today'}"
+"I want to buy an iPhone","inquire_product","{'product': 'iPhone'}"
+"Schedule a meeting with John at 3 pm","schedule_meeting","{'contact_name': 'John', 'time': '3 pm'}"
+"How much is the flight to Los Angeles?","inquire_flight","{'destination': 'Los Angeles'}"
